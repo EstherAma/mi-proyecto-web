@@ -1,7 +1,23 @@
-body {
-  font-family: 'Montserrat', sans-serif;
+header {
+    width: 80%;
+    margin: 0 auto;
+    border-bottom: 1px solid steelblue;
+    padding: 20px;
+
 }
 
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f8f8f8;
+}
+.contenedor {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
 
 
 h1 {
