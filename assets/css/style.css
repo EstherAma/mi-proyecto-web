@@ -16,10 +16,13 @@ header {
 }
 
 .linea-decorativa {
-    width: 100%;
     display: block;
-    margin-top: -10px; /* ajusta según se necesite */
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
 }
+
 
 /*Menú*/
 header .menu ul {
@@ -62,7 +65,7 @@ h1, h2 {
     color: #ce6b14;
 }
 p {
-    text-align: center;
+    text-align: left;
     
 }
 .galgo-espanol {
