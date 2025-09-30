@@ -4,12 +4,23 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px 40px;
-    border-bottom: 1px solid steelblue;
+    /*border-bottom: 1px solid steelblue;*/
 }
 /*Estiolo del logo*/
-header .logo h1 {
+/*header .logo h1 {
     margin: 0;
+}*/
+.logo-img {
+    height: 100px; /* o más grande si quieres */
+    width: auto;
 }
+
+.linea-decorativa {
+    width: 100%;
+    display: block;
+    margin-top: -10px; /* ajusta según se necesite */
+}
+
 /*Menú*/
 header .menu ul {
     list-style: none;
