@@ -55,8 +55,19 @@ body {
 }
 
 
-h1 {
+h1, h2 {
     color: #ce6b14;
+}
+.titulo-h4 {
+    color: #ce6b14;
+}
+p {
+    text-align: center;
+    
+}
+.galgo-espanol {
+    border-radius: 15px;
+    
 }
 
 .img {
